@@ -32,6 +32,7 @@ public class Main {
         
         // NOVO CÓDIGO SÓ ABAIXO DESTA LINHA
         
-        
+        poligonos[0] = new Retangulo("a20864", 4, 3);
+        System.out.println(poligonos[0]);
     }
 }

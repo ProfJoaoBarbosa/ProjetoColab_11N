@@ -34,5 +34,8 @@ public class Main {
         
         poligonos[0] = new Retangulo("a20864", 4, 3);
         System.out.println(poligonos[0]);
+        
+        poligonos[3] = new Retangulo("a20874", 5, 8);
+        System.out.println(poligonos[3]);
     }
 }

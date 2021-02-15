@@ -30,7 +30,10 @@ public class Main {
         //               Team | Commit
         //               Team | Remote | Push
         
-        // NOVO CÓDIGO SÓ ABAIXO DESTA LINHA
+        // NOVO CÓDIGO SÓ ABAIXO DESTA 
+        
+        poligonos[5] = new Retangulo("a16799", 2, 2);
+        System.out.println(poligonos[5]);
         
         poligonos[0] = new Retangulo("a20864", 4, 3);
         System.out.println(poligonos[0]);

@@ -32,6 +32,9 @@ public class Main {
         
         // NOVO CÓDIGO SÓ ABAIXO DESTA LINHA 
         
+        // NOVO COMENTÁRIO!!!!!
+        int vv = 10;
+        
         poligonos[19] = new Retangulo("a99999", 5, 9);
         System.out.println(poligonos[5]);
                 

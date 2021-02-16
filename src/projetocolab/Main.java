@@ -37,7 +37,7 @@ public class Main {
         
         // atualização.
         
-        poligonos[8] = new Retangulo("a20865", 8, 6);
+        poligonos[8] = new Retangulo("a20865", 8, 6);//André Dias
         System.out.println(poligonos[5]);
          
         poligonos[19] = new Retangulo("a99999", 5, 9);

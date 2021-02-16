@@ -49,13 +49,13 @@ public class Main {
         poligonos[0] = new Retangulo("a20864", 4, 3);
         System.out.println(poligonos[0]);
         
-        poligonos[3] = new Retangulo("a20874", 5, 8);
+        poligonos[3] = new Retangulo("a20874", 5, 8);//João Sintra
         System.out.println(poligonos[3]);
         
         poligonos[1] = new Retangulo("a20884", 3, 10); //Diogo Inês
         System.out.println(poligonos[1]);
         
-        poligonos[4] = new Retangulo("a16967", 6, 9);
+        poligonos[4] = new Retangulo("a16967", 6, 9);//Francisco Furtado
         System.out.println(poligonos[4]);
         
         poligonos[7] = new Retangulo("a20881", 10, 20);//Daniel Boto

@@ -49,7 +49,7 @@ public class Main {
         poligonos[3] = new Retangulo("a20874", 5, 8);
         System.out.println(poligonos[3]);
         
-        poligonos[1] = new Retangulo("a20884", 3, 10);
+        poligonos[1] = new Retangulo("a20884", 3, 10); //Diogo Inês
         System.out.println(poligonos[1]);
         
         poligonos[4] = new Retangulo("a16967", 6, 9);

@@ -63,5 +63,8 @@ public class Main {
         
         poligonos[9] = new Retangulo("a20862", 15, 30);
         System.out.println(poligonos[9]);
+        
+        poligonos[10] = new Retangulo("a19724", 7, 70);//Beatriz Caldeira
+        System.out.println(poligonos[10]);
     }
 }

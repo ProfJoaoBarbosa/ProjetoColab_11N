@@ -46,7 +46,7 @@ public class Main {
         poligonos[5] = new Retangulo("a16799", 2, 2);//Estéfano Carvalho
         System.out.println(poligonos[5]);
         
-        poligonos[0] = new Retangulo("a20864", 4, 3);
+        poligonos[10] = new Retangulo("a20864", 4, 3);//Oscar Vásquez
         System.out.println(poligonos[0]);
         
         poligonos[3] = new Retangulo("a20874", 5, 8);//João Sintra

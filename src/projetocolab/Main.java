@@ -73,7 +73,7 @@ public class Main {
         poligonos[10] = new Retangulo("a19724", 7, 70);//Beatriz Caldeira
         System.out.println(poligonos[10]);
         
-        poligonos[11] = new Retangulo("a18752", 3, 14);//Eloy Araújo
+        poligonos[11] = new Retangulo("a18752", 3, 14);//Eloy Araújo 
         System.out.println(poligonos[11]);
     }
 }

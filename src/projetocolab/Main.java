@@ -64,7 +64,7 @@ public class Main {
         poligonos[7] = new Retangulo("a20881", 10, 20);//Daniel Boto
         System.out.println(poligonos[7]);
         
-        poligonos[6] = new Retangulo("a16162", 1, 2);// Miguel Bernatskyy
+        poligonos[6] = new Retangulo("a16162", 1, 2);// Miguel Bernatskyy 
         System.out.println(poligonos[6]);
         
         poligonos[9] = new Retangulo("a20862", 15, 30);
